@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Rust** <br>
 - 👨‍💻 Have a look at my portfolio website: [https://engineerketer.dev](https://engineerketer.dev) { **🚧** }<br>
 - 💬 Lets talk about **Javascript, Typescript, Frontend, Backend, NodeJS, Bun, Linux or anything fun related to tech...**<br>
-- 📫 How to reach me [**clivemaina41@gmail.com**](mailto:clivemaina41@gmail.com)<br>
+- 📫 How to reach me [**gilbertketer759@gmail.com**](mailto:gilbertketer759@gmail.com)<br>
 - 📄 Know about my experiences [Download my resume](https://engineerketer.dev/resume.pdf)<br>
 - ⚡ Fun fact **I live in the dark...No bugs there. At least I can't see 'em.**
 <!-- - I love linux -->
@@ -68,8 +68,8 @@
 
 |                                                                                                                                                                           |       |
 |:----                                                                                                                                                                      | :----:|
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=clive-cudi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  |       |
-|![](https://github-readme-stats.vercel.app/api?username=clive-cudi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)                            |![](https://github-readme-streak-stats.herokuapp.com/?user=clive-cudi&theme=dracula&hide_border=false)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=GILBERTKETER&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  |       |
+|![](https://github-readme-stats.vercel.app/api?username=GILBERTKETER&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)                            |![](https://github-readme-streak-stats.herokuapp.com/?user=GILBERTKETER&theme=dracula&hide_border=false)|
 <br/>
 <br/>
 
@@ -78,14 +78,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elitedev254) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clive-flavius-230b67211) 
 
 <!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=clive-cudi&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=GILBERTKETER&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### 😂 Random Dev Meme
 
 <img src="https://random-dev-meme.onrender.com/random?mode=object" width="300px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=clive-cudi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GILBERTKETER&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- ![spotify_last_played](https://spotify-recently-played-readme.vercel.app/api?user=0weqtoe9ft8ft9yxobf38t1z6) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

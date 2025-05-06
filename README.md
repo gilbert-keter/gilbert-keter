@@ -3,10 +3,10 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Rust** <br>
-- 👨‍💻 Have a look at my portfolio website: [https://engineerketer.dev](https://engineerketer.dev) { **🚧** }<br>
+- 👨‍💻 Have a look at my portfolio website: [https://dev.lmn.co.ke](https://dev.lmn.co.ke) { **🚧** }<br>
 - 💬 Lets talk about **Javascript, Typescript, Frontend, Backend, NodeJS, Bun, Linux or anything fun related to tech...**<br>
 - 📫 How to reach me [**gilbertketer759@gmail.com**](mailto:gilbertketer759@gmail.com)<br>
-- 📄 Know about my experiences [Download my resume](https://engineerketer.dev/resume.pdf)<br>
+- 📄 Know about my experiences [Download my resume](https://dev.lmn.co.ke/resume.pdf)<br>
 - ⚡ Fun fact **I live in the dark...No bugs there. At least I can't see 'em.**
 <!-- - I love linux -->
 

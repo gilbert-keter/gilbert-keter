@@ -68,11 +68,11 @@
 
 |                                                                                                                                                                           |       |
 |:----                                                                                                                                                                      | :----:|
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=GILBERTKETER&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  |       |
-|![](https://github-readme-stats.vercel.app/api?username=GILBERTKETER&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)                            |![](https://github-readme-streak-stats.herokuapp.com/?user=GILBERTKETER&theme=dracula&hide_border=false)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbert-keter&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  |       |
+|![](https://github-readme-stats.vercel.app/api?username=gilbert-keter&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)                            |![](https://github-readme-streak-stats.herokuapp.com/?user=gilbert-keter&theme=dracula&hide_border=false)|
 <br/>
 <br/>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elitedev254) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gilbertketer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gilbertKeter3)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elitedev254) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gilbert-keter) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gilbert-keter3)
